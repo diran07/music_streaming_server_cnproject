@@ -1,0 +1,2252 @@
+2026-03-12 18:58:13,878 [WARNING] Audio file 'sample.mp3' not found – creating dummy file.
+2026-03-12 18:58:29,463 [INFO] [5c5b8f64] Connected from ('127.0.0.1', 58822)
+2026-03-12 18:58:29,463 [INFO] Active clients: 1
+2026-03-12 18:58:34,825 [INFO] [5c5b8f64] Buffer empty – stream finished
+2026-03-12 18:58:34,825 [INFO] [5c5b8f64] QoS Report: {
+  "client_id": "5c5b8f64",
+  "elapsed_s": 5.35,
+  "packets_sent": 43,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 233.36,
+  "avg_rtt_ms": 0.03,
+  "bitrate_changes": [
+    {
+      "time": 0.32,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 18:58:34,826 [INFO] [5c5b8f64] Session closed. Active clients: 1
+2026-03-12 18:58:43,705 [INFO] [9432fc1f] Connected from ('127.0.0.1', 58833)
+2026-03-12 18:58:43,705 [INFO] Active clients: 2
+2026-03-12 18:58:49,025 [INFO] [9432fc1f] Buffer empty – stream finished
+2026-03-12 18:58:49,026 [INFO] [9432fc1f] QoS Report: {
+  "client_id": "9432fc1f",
+  "elapsed_s": 5.32,
+  "packets_sent": 42,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 228.56,
+  "avg_rtt_ms": 0.16,
+  "bitrate_changes": [
+    {
+      "time": 0.31,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 18:58:49,027 [INFO] [9432fc1f] Session closed. Active clients: 2
+2026-03-12 18:58:54,046 [INFO] [04e3985e] Connected from ('127.0.0.1', 51700)
+2026-03-12 18:58:54,046 [INFO] Active clients: 3
+2026-03-12 18:58:59,372 [INFO] [04e3985e] Buffer empty – stream finished
+2026-03-12 18:58:59,373 [INFO] [04e3985e] QoS Report: {
+  "client_id": "04e3985e",
+  "elapsed_s": 5.32,
+  "packets_sent": 41,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 222.06,
+  "avg_rtt_ms": 0.06,
+  "bitrate_changes": [
+    {
+      "time": 0.3,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 18:58:59,374 [INFO] [04e3985e] Session closed. Active clients: 3
+2026-03-12 19:14:57,989 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-12 19:14:57,989 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-12 19:14:57,989 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-12 19:14:57,990 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-12 19:15:09,860 [INFO] [d2f6e2bb] Connected from ('127.0.0.1', 62292)
+2026-03-12 19:15:09,860 [INFO] Active clients: 1
+2026-03-12 19:15:09,886 [INFO] [d2f6e2bb] Sent catalog (2 songs)
+2026-03-12 19:15:14,424 [INFO] [d2f6e2bb] Song confirmed: 'song1.mp3'
+2026-03-12 19:15:14,424 [INFO] [d2f6e2bb] Streaming: 'song1.mp3'
+2026-03-12 19:15:19,771 [INFO] [d2f6e2bb] Stream finished.
+2026-03-12 19:15:19,772 [INFO] [d2f6e2bb] QoS Report:
+{
+  "client_id": "d2f6e2bb",
+  "elapsed_s": 9.89,
+  "packets_sent": 89,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 276.28,
+  "avg_rtt_ms": 0.07,
+  "bitrate_changes": [
+    {
+      "time_s": 4.84,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 19:15:19,772 [INFO] Active clients: 1
+2026-03-12 19:15:58,226 [INFO] Server shutting down ...
+2026-03-12 19:24:44,476 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-12 19:24:44,476 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-12 19:24:44,477 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-12 19:24:44,477 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-12 19:24:52,730 [INFO] [f5fd6030] Connected from ('127.0.0.1', 52911)
+2026-03-12 19:24:52,730 [INFO] Active clients: 1
+2026-03-12 19:24:52,734 [INFO] [f5fd6030] Session started from ('127.0.0.1', 52911)
+2026-03-12 19:24:56,333 [INFO] [c58b8b29] Connected from ('127.0.0.1', 52913)
+2026-03-12 19:24:56,333 [INFO] Active clients: 2
+2026-03-12 19:24:56,337 [INFO] [c58b8b29] Session started from ('127.0.0.1', 52913)
+2026-03-12 19:24:59,907 [INFO] [69e8a8de] Connected from ('127.0.0.1', 52916)
+2026-03-12 19:24:59,907 [INFO] Active clients: 3
+2026-03-12 19:24:59,910 [INFO] [69e8a8de] Session started from ('127.0.0.1', 52916)
+2026-03-12 19:25:03,369 [INFO] [f5fd6030] Song confirmed: 'song1.mp3'
+2026-03-12 19:25:03,369 [INFO] [f5fd6030] Streaming: 'song1.mp3'
+2026-03-12 19:25:03,674 [INFO] [f5fd6030] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-12 19:25:08,697 [INFO] [f5fd6030] Song finished.
+2026-03-12 19:25:13,121 [INFO] [f5fd6030] Song confirmed: 'song2.mp3'
+2026-03-12 19:25:13,122 [INFO] [f5fd6030] Streaming: 'song2.mp3'
+2026-03-12 19:25:18,449 [INFO] [f5fd6030] Song finished.
+2026-03-12 19:25:26,896 [INFO] [c58b8b29] Song confirmed: 'song1.mp3'
+2026-03-12 19:25:26,896 [INFO] [c58b8b29] Streaming: 'song1.mp3'
+2026-03-12 19:25:27,201 [INFO] [c58b8b29] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-12 19:25:29,024 [INFO] [69e8a8de] Song confirmed: 'song2.mp3'
+2026-03-12 19:25:29,024 [INFO] [69e8a8de] Streaming: 'song2.mp3'
+2026-03-12 19:25:29,331 [INFO] [69e8a8de] Bitrate 2 -> 3 (loss=0.0%, rtt=1ms)
+2026-03-12 19:25:32,221 [INFO] [c58b8b29] Song finished.
+2026-03-12 19:25:34,342 [INFO] [69e8a8de] Song finished.
+2026-03-12 19:25:43,249 [INFO] [c58b8b29] Client sent quit signal.
+2026-03-12 19:25:43,249 [INFO] [c58b8b29] Session ended. QoS:
+{
+  "client_id": "c58b8b29",
+  "elapsed_s": 46.91,
+  "packets_sent": 41,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 24.63,
+  "avg_rtt_ms": 0.03,
+  "bitrate_changes": [
+    {
+      "time_s": 30.86,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 19:25:43,250 [INFO] Active clients: 3
+2026-03-12 19:25:56,312 [INFO] [f5fd6030] Song confirmed: 'song1.mp3'
+2026-03-12 19:25:56,313 [INFO] [f5fd6030] Streaming: 'song1.mp3'
+2026-03-12 19:26:01,618 [INFO] [f5fd6030] Song finished.
+2026-03-12 19:26:05,848 [INFO] [69e8a8de] Client sent quit signal.
+2026-03-12 19:26:05,848 [INFO] [69e8a8de] Session ended. QoS:
+{
+  "client_id": "69e8a8de",
+  "elapsed_s": 65.94,
+  "packets_sent": 43,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 18.89,
+  "avg_rtt_ms": 0.13,
+  "bitrate_changes": [
+    {
+      "time_s": 29.42,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 19:26:05,849 [INFO] Active clients: 3
+2026-03-12 19:26:16,376 [INFO] [f5fd6030] Client sent quit signal.
+2026-03-12 19:26:16,377 [INFO] [f5fd6030] Session ended. QoS:
+{
+  "client_id": "f5fd6030",
+  "elapsed_s": 83.64,
+  "packets_sent": 113,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 41.73,
+  "avg_rtt_ms": 0.1,
+  "bitrate_changes": [
+    {
+      "time_s": 10.94,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 19:26:16,377 [INFO] Active clients: 3
+2026-03-12 19:28:14,985 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server':
+2026-03-12 19:28:14,985 [INFO]    [ 3] received_song1.mp3  (116 KB)
+2026-03-12 19:28:14,985 [INFO]    [ 4] received_song2.mp3  (151 KB)
+2026-03-12 19:28:14,986 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-12 19:28:58,793 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-12 19:28:58,793 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-12 19:28:58,793 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-12 19:28:58,794 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-12 19:29:06,122 [INFO] [cb68df61] Connected from ('127.0.0.1', 64807)
+2026-03-12 19:29:06,122 [INFO] [cb68df61] Connected. Active clients: 1
+2026-03-12 19:29:06,126 [INFO] [cb68df61] Session started from ('127.0.0.1', 64807)
+2026-03-12 19:29:14,788 [INFO] [a99d9c7c] Connected from ('127.0.0.1', 64809)
+2026-03-12 19:29:14,788 [INFO] [a99d9c7c] Connected. Active clients: 2
+2026-03-12 19:29:14,791 [INFO] [a99d9c7c] Session started from ('127.0.0.1', 64809)
+2026-03-12 19:29:16,336 [INFO] [a99d9c7c] Song confirmed: 'song1.mp3'
+2026-03-12 19:29:16,336 [INFO] [a99d9c7c] Streaming: 'song1.mp3'
+2026-03-12 19:29:16,643 [INFO] [a99d9c7c] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-12 19:29:19,145 [INFO] [cb68df61] Song confirmed: 'song2.mp3'
+2026-03-12 19:29:19,146 [INFO] [cb68df61] Streaming: 'song2.mp3'
+2026-03-12 19:29:19,451 [INFO] [cb68df61] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-12 19:29:21,662 [INFO] [a99d9c7c] Song finished.
+2026-03-12 19:29:24,463 [INFO] [cb68df61] Song finished.
+2026-03-12 19:29:28,104 [INFO] [a99d9c7c] Client sent quit signal.
+2026-03-12 19:29:28,105 [INFO] [a99d9c7c] Session ended. QoS:
+{
+  "client_id": "a99d9c7c",
+  "elapsed_s": 13.31,
+  "packets_sent": 41,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 86.8,
+  "avg_rtt_ms": 0.14,
+  "bitrate_changes": [
+    {
+      "time_s": 1.85,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-12 19:29:28,105 [INFO] [a99d9c7c] Disconnected. Active clients: 1
+2026-03-12 19:34:41,707 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-12 19:34:41,707 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-12 19:34:41,707 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-12 19:34:41,708 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-12 19:34:47,232 [INFO] [57ddd4ac] Connected from ('127.0.0.1', 63982)
+2026-03-12 19:34:47,232 [INFO] [57ddd4ac] Connected. Active clients: 1
+2026-03-12 19:34:47,237 [INFO] [57ddd4ac] Session started from ('127.0.0.1', 63982)
+2026-03-12 19:34:58,927 [INFO] [af3ed452] Connected from ('127.0.0.1', 63986)
+2026-03-12 19:34:58,928 [INFO] [af3ed452] Connected. Active clients: 2
+2026-03-12 19:34:58,931 [INFO] [af3ed452] Session started from ('127.0.0.1', 63986)
+2026-03-12 19:35:09,551 [INFO] [57ddd4ac] Song confirmed: 'song1.mp3'
+2026-03-12 19:35:09,551 [INFO] [57ddd4ac] Streaming: 'song1.mp3'
+2026-03-12 19:35:09,855 [INFO] [57ddd4ac] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-12 19:35:14,876 [INFO] [57ddd4ac] Song finished.
+2026-03-12 19:35:29,769 [INFO] [af3ed452] Client sent quit signal.
+2026-03-12 19:35:29,769 [INFO] [af3ed452] Session ended. QoS:
+{
+  "client_id": "af3ed452",
+  "elapsed_s": 30.84,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-03-12 19:35:29,770 [INFO] [af3ed452] Disconnected. Active clients: 1
+2026-03-13 14:04:53,700 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-13 14:04:53,700 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:04:53,701 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:04:53,701 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:05:26,006 [INFO] [e08fc919] Connected from ('127.0.0.1', 54525)
+2026-03-13 14:05:26,006 [INFO] [e08fc919] Connected. Active clients: 1
+2026-03-13 14:05:26,033 [INFO] [e08fc919] Session started from ('127.0.0.1', 54525)
+2026-03-13 14:05:28,915 [INFO] [e08fc919] Song confirmed: 'song1.mp3'
+2026-03-13 14:05:28,915 [INFO] [e08fc919] Streaming: 'song1.mp3'
+2026-03-13 14:05:29,219 [INFO] [e08fc919] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-13 14:05:34,241 [INFO] [e08fc919] Song finished.
+2026-03-13 14:06:29,637 [INFO] [e08fc919] Song confirmed: 'song1.mp3'
+2026-03-13 14:06:29,638 [INFO] [e08fc919] Streaming: 'song1.mp3'
+2026-03-13 14:06:34,957 [INFO] [e08fc919] Song finished.
+2026-03-13 14:06:38,506 [INFO] [e08fc919] Song confirmed: 'song2.mp3'
+2026-03-13 14:06:38,507 [INFO] [e08fc919] Streaming: 'song2.mp3'
+2026-03-13 14:06:43,816 [INFO] [e08fc919] Song finished.
+2026-03-13 14:07:23,129 [INFO] [95a83727] Connected from ('127.0.0.1', 54543)
+2026-03-13 14:07:23,129 [INFO] [95a83727] Connected. Active clients: 2
+2026-03-13 14:07:23,163 [INFO] [95a83727] Session started from ('127.0.0.1', 54543)
+2026-03-13 14:07:43,827 [INFO] [e08fc919] No request received: The read operation timed out
+2026-03-13 14:07:43,828 [INFO] [e08fc919] Session ended. QoS:
+{
+  "client_id": "e08fc919",
+  "elapsed_s": 137.79,
+  "packets_sent": 131,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 29.62,
+  "avg_rtt_ms": 0.12,
+  "bitrate_changes": [
+    {
+      "time_s": 3.19,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:07:43,828 [INFO] [e08fc919] Disconnected. Active clients: 1
+2026-03-13 14:08:23,167 [INFO] [95a83727] No request received: The read operation timed out
+2026-03-13 14:08:23,168 [INFO] [95a83727] Session ended. QoS:
+{
+  "client_id": "95a83727",
+  "elapsed_s": 60.0,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-03-13 14:08:23,172 [INFO] [95a83727] Disconnected. Active clients: 0
+2026-03-13 14:09:35,671 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-13 14:09:35,671 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:09:35,671 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:09:35,672 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:10:26,272 [INFO] [d6287fe6] Connected from ('127.0.0.1', 50783)
+2026-03-13 14:10:26,272 [INFO] [d6287fe6] Connected. Active clients: 1
+2026-03-13 14:10:26,278 [INFO] [d6287fe6] Session started from ('127.0.0.1', 50783)
+2026-03-13 14:10:41,211 [INFO] [d6287fe6] Song confirmed: 'song1.mp3'
+2026-03-13 14:10:41,212 [INFO] [d6287fe6] Streaming: 'song1.mp3'
+2026-03-13 14:10:41,517 [INFO] [d6287fe6] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-13 14:10:46,526 [INFO] [d6287fe6] Song finished.
+2026-03-13 14:11:18,293 [INFO] [d6287fe6] Song confirmed: 'song2.mp3'
+2026-03-13 14:11:18,293 [INFO] [d6287fe6] Streaming: 'song2.mp3'
+2026-03-13 14:11:23,605 [INFO] [d6287fe6] Song finished.
+2026-03-13 14:12:23,617 [INFO] [d6287fe6] No request received: The read operation timed out
+2026-03-13 14:12:23,618 [INFO] [d6287fe6] Session ended. QoS:
+{
+  "client_id": "d6287fe6",
+  "elapsed_s": 117.34,
+  "packets_sent": 102,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 26.9,
+  "avg_rtt_ms": 0.06,
+  "bitrate_changes": [
+    {
+      "time_s": 15.24,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:12:23,618 [INFO] [d6287fe6] Disconnected. Active clients: 0
+2026-03-13 14:12:55,231 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-13 14:12:55,231 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:12:55,231 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:12:55,232 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:13:05,397 [INFO] [e6f5b814] Connected from ('127.0.0.1', 53500)
+2026-03-13 14:13:05,398 [INFO] [e6f5b814] Connected. Active clients: 1
+2026-03-13 14:13:05,403 [INFO] [e6f5b814] Session started from ('127.0.0.1', 53500)
+2026-03-13 14:13:21,684 [INFO] [e6f5b814] Song confirmed: 'song1.mp3'
+2026-03-13 14:13:21,684 [INFO] [e6f5b814] Streaming: 'song1.mp3'
+2026-03-13 14:13:21,986 [INFO] [e6f5b814] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-13 14:13:27,007 [INFO] [e6f5b814] Song finished.
+2026-03-13 14:13:35,809 [INFO] [e6f5b814] Song confirmed: 'song2.mp3'
+2026-03-13 14:13:35,809 [INFO] [e6f5b814] Streaming: 'song2.mp3'
+2026-03-13 14:13:41,120 [INFO] [e6f5b814] Song finished.
+2026-03-13 14:13:49,929 [INFO] [e6f5b814] Song confirmed: 'song1.mp3'
+2026-03-13 14:13:49,930 [INFO] [e6f5b814] Streaming: 'song1.mp3'
+2026-03-13 14:13:55,242 [INFO] [e6f5b814] Song finished.
+2026-03-13 14:14:01,853 [INFO] [e6f5b814] Song confirmed: 'song1.mp3'
+2026-03-13 14:14:01,854 [INFO] [e6f5b814] Streaming: 'song1.mp3'
+2026-03-13 14:14:07,169 [INFO] [e6f5b814] Song finished.
+2026-03-13 14:14:08,199 [INFO] [e6f5b814] Song confirmed: 'song2.mp3'
+2026-03-13 14:14:08,200 [INFO] [e6f5b814] Streaming: 'song2.mp3'
+2026-03-13 14:14:13,513 [INFO] [e6f5b814] Song finished.
+2026-03-13 14:15:13,532 [INFO] [e6f5b814] No request received: The read operation timed out
+2026-03-13 14:15:13,533 [INFO] [e6f5b814] Session ended. QoS:
+{
+  "client_id": "e6f5b814",
+  "elapsed_s": 128.13,
+  "packets_sent": 191,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 47.0,
+  "avg_rtt_ms": 0.18,
+  "bitrate_changes": [
+    {
+      "time_s": 16.58,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:15:13,534 [INFO] [e6f5b814] Disconnected. Active clients: 0
+2026-03-13 14:17:09,473 [INFO] Song library (2 songs) at 'C:\Users\Lenovo\OneDrive\Desktop\music_streaming_server\music':
+2026-03-13 14:17:09,473 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:17:09,473 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:17:09,474 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:17:18,941 [INFO] [8bd11f57] Connected from ('127.0.0.1', 54552)
+2026-03-13 14:17:18,941 [INFO] [8bd11f57] Connected. Active clients: 1
+2026-03-13 14:17:18,946 [INFO] [8bd11f57] Session started from ('127.0.0.1', 54552)
+2026-03-13 14:17:20,178 [INFO] [8bd11f57] Song confirmed: 'song1.mp3'
+2026-03-13 14:17:20,179 [INFO] [8bd11f57] Streaming: 'song1.mp3'
+2026-03-13 14:17:20,483 [INFO] [8bd11f57] Bitrate 2 -> 3 (loss=0.0%, rtt=0ms)
+2026-03-13 14:17:25,494 [INFO] [8bd11f57] Song finished.
+2026-03-13 14:17:26,854 [INFO] [8bd11f57] Song confirmed: 'song2.mp3'
+2026-03-13 14:17:26,855 [INFO] [8bd11f57] Streaming: 'song2.mp3'
+2026-03-13 14:17:32,177 [INFO] [8bd11f57] Song finished.
+2026-03-13 14:18:32,198 [INFO] [8bd11f57] No request received: The read operation timed out
+2026-03-13 14:18:32,201 [INFO] [8bd11f57] Session ended. QoS:
+{
+  "client_id": "8bd11f57",
+  "elapsed_s": 73.26,
+  "packets_sent": 85,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 35.47,
+  "avg_rtt_ms": 0.1,
+  "bitrate_changes": [
+    {
+      "time_s": 1.54,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:18:32,202 [INFO] [8bd11f57] Disconnected. Active clients: 0
+2026-03-13 14:21:48,923 [INFO] Song library (2 songs):
+2026-03-13 14:21:48,923 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:21:48,924 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:21:48,924 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:21:56,181 [INFO] [594640b9] Connected from ('127.0.0.1', 57327)
+2026-03-13 14:21:56,181 [INFO] [594640b9] Connected. Active clients: 1
+2026-03-13 14:21:56,187 [INFO] [594640b9] Session started from ('127.0.0.1', 57327)
+2026-03-13 14:21:58,346 [INFO] [594640b9] Confirmed: 'song1.mp3'
+2026-03-13 14:21:58,368 [INFO] Decoding 'song1.mp3' ...
+2026-03-13 14:22:00,338 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-03-13 14:22:00,344 [INFO] [594640b9] Bitrate 2 -> 3
+2026-03-13 14:22:00,346 [INFO] [594640b9] Song done.
+2026-03-13 14:22:05,054 [INFO] [594640b9] Confirmed: 'song2.mp3'
+2026-03-13 14:22:05,055 [INFO] Decoding 'song2.mp3' ...
+2026-03-13 14:22:05,255 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-03-13 14:22:05,262 [INFO] [594640b9] Song done.
+2026-03-13 14:23:05,277 [INFO] [594640b9] No request: The read operation timed out
+2026-03-13 14:23:05,278 [INFO] [594640b9] QoS:
+{
+  "client_id": "594640b9",
+  "elapsed_s": 69.09,
+  "packets_sent": 100,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 40.43,
+  "avg_rtt_ms": 0.06,
+  "bitrate_changes": [
+    {
+      "time_s": 4.16,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:23:05,278 [INFO] [594640b9] Disconnected. Active clients: 0
+2026-03-13 14:25:21,615 [INFO] Song library (2 songs):
+2026-03-13 14:25:21,615 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:25:21,616 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:25:21,616 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:25:29,585 [INFO] [dc6c2416] Connected from ('127.0.0.1', 62733)
+2026-03-13 14:25:29,585 [INFO] [dc6c2416] Connected. Active clients: 1
+2026-03-13 14:25:29,591 [INFO] [dc6c2416] Session started from ('127.0.0.1', 62733)
+2026-03-13 14:25:32,334 [INFO] [dc6c2416] Confirmed: 'song1.mp3'
+2026-03-13 14:25:32,355 [INFO] Decoding 'song1.mp3' ...
+2026-03-13 14:25:32,573 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-03-13 14:25:32,968 [INFO] [dc6c2416] Bitrate 2 -> 3
+2026-03-13 14:25:33,623 [INFO] [dc6c2416] Song done.
+2026-03-13 14:26:33,631 [INFO] [dc6c2416] No request: The read operation timed out
+2026-03-13 14:26:33,634 [INFO] [dc6c2416] QoS:
+{
+  "client_id": "dc6c2416",
+  "elapsed_s": 64.04,
+  "packets_sent": 50,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 21.94,
+  "avg_rtt_ms": 0.21,
+  "bitrate_changes": [
+    {
+      "time_s": 3.38,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:26:33,635 [INFO] [dc6c2416] Disconnected. Active clients: 0
+2026-03-13 14:28:24,293 [INFO] Song library (2 songs):
+2026-03-13 14:28:24,294 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:28:24,294 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:28:24,294 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:28:32,276 [INFO] [f598b08b] Connected from ('127.0.0.1', 62749)
+2026-03-13 14:28:32,276 [INFO] [f598b08b] Connected. Active clients: 1
+2026-03-13 14:28:32,282 [INFO] [f598b08b] Session started from ('127.0.0.1', 62749)
+2026-03-13 14:28:35,202 [INFO] [f598b08b] Confirmed: 'song1.mp3'
+2026-03-13 14:28:35,223 [INFO] Decoding 'song1.mp3' ...
+2026-03-13 14:28:35,447 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-03-13 14:28:35,604 [INFO] [f598b08b] Bitrate 2 -> 3
+2026-03-13 14:28:36,204 [INFO] [f598b08b] Song done.
+2026-03-13 14:29:06,765 [INFO] [f598b08b] Confirmed: 'song2.mp3'
+2026-03-13 14:29:06,766 [INFO] Decoding 'song2.mp3' ...
+2026-03-13 14:29:07,016 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-03-13 14:29:07,767 [INFO] [f598b08b] Song done.
+2026-03-13 14:29:09,601 [INFO] [f598b08b] Confirmed: 'song1.mp3'
+2026-03-13 14:29:09,602 [INFO] Decoding 'song1.mp3' ...
+2026-03-13 14:29:09,828 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-03-13 14:29:10,603 [INFO] [f598b08b] Song done.
+2026-03-13 14:29:12,248 [INFO] [f598b08b] Confirmed: 'song2.mp3'
+2026-03-13 14:29:12,249 [INFO] Decoding 'song2.mp3' ...
+2026-03-13 14:29:12,451 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-03-13 14:29:13,249 [INFO] [f598b08b] Song done.
+2026-03-13 14:30:13,262 [INFO] [f598b08b] No request: The read operation timed out
+2026-03-13 14:30:13,264 [INFO] [f598b08b] QoS:
+{
+  "client_id": "f598b08b",
+  "elapsed_s": 100.98,
+  "packets_sent": 200,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 55.33,
+  "avg_rtt_ms": 0.26,
+  "bitrate_changes": [
+    {
+      "time_s": 3.32,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:30:13,266 [INFO] [f598b08b] Disconnected. Active clients: 0
+2026-03-13 14:34:32,173 [INFO] Shutting down ...
+2026-03-13 14:34:34,164 [INFO] Song library (2 songs):
+2026-03-13 14:34:34,165 [INFO]    [ 1] song1.mp3  (3116 KB)
+2026-03-13 14:34:34,166 [INFO]    [ 2] song2.mp3  (1875 KB)
+2026-03-13 14:34:34,167 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:34:38,761 [INFO] [eb91128e] Connected from ('127.0.0.1', 51733)
+2026-03-13 14:34:38,761 [INFO] [eb91128e] Connected. Active clients: 1
+2026-03-13 14:34:38,787 [INFO] [eb91128e] Session started from ('127.0.0.1', 51733)
+2026-03-13 14:34:42,267 [INFO] [eb91128e] Confirmed: 'song1.mp3'
+2026-03-13 14:34:42,291 [INFO] Decoding 'song1.mp3' ...
+2026-03-13 14:34:42,526 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-03-13 14:34:43,269 [INFO] [eb91128e] Bitrate 2 -> 3
+2026-03-13 14:34:47,269 [INFO] [eb91128e] Song done.
+2026-03-13 14:34:52,073 [INFO] [eb91128e] Confirmed: 'song2.mp3'
+2026-03-13 14:34:52,073 [INFO] Decoding 'song2.mp3' ...
+2026-03-13 14:34:52,282 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-03-13 14:34:57,074 [INFO] [eb91128e] Song done.
+2026-03-13 14:35:29,818 [INFO] [eb91128e] Confirmed: 'song2.mp3'
+2026-03-13 14:35:29,819 [INFO] Decoding 'song2.mp3' ...
+2026-03-13 14:35:30,032 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-03-13 14:35:34,820 [INFO] [eb91128e] Song done.
+2026-03-13 14:36:34,838 [INFO] [eb91128e] No request: The read operation timed out
+2026-03-13 14:36:34,840 [INFO] [eb91128e] QoS:
+{
+  "client_id": "eb91128e",
+  "elapsed_s": 116.05,
+  "packets_sent": 150,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 179.77,
+  "avg_rtt_ms": 0.19,
+  "bitrate_changes": [
+    {
+      "time_s": 4.48,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:36:34,843 [INFO] [eb91128e] Disconnected. Active clients: 0
+2026-03-13 14:37:40,131 [INFO] Shutting down ...
+2026-03-13 14:37:41,775 [INFO] Song library (2 songs):
+2026-03-13 14:37:41,775 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 14:37:41,776 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 14:37:41,777 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:37:45,434 [INFO] [6bc34fab] Connected from ('127.0.0.1', 58998)
+2026-03-13 14:37:45,434 [INFO] [6bc34fab] Connected. Active clients: 1
+2026-03-13 14:37:45,440 [INFO] [6bc34fab] Session started from ('127.0.0.1', 58998)
+2026-03-13 14:38:13,754 [INFO] [6bc34fab] No request: Client disconnected
+2026-03-13 14:38:13,779 [INFO] [6bc34fab] QoS:
+{
+  "client_id": "6bc34fab",
+  "elapsed_s": 28.34,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-03-13 14:38:13,780 [INFO] [6bc34fab] Disconnected. Active clients: 0
+2026-03-13 14:38:18,676 [INFO] Shutting down ...
+2026-03-13 14:38:20,098 [INFO] Song library (3 songs):
+2026-03-13 14:38:20,098 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-03-13 14:38:20,098 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 14:38:20,098 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 14:38:20,099 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:38:24,270 [INFO] [1984dc5b] Connected from ('127.0.0.1', 61211)
+2026-03-13 14:38:24,270 [INFO] [1984dc5b] Connected. Active clients: 1
+2026-03-13 14:38:24,276 [INFO] [1984dc5b] Session started from ('127.0.0.1', 61211)
+2026-03-13 14:38:27,008 [INFO] [1984dc5b] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:38:27,024 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:38:27,182 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:38:28,010 [INFO] [1984dc5b] Bitrate 2 -> 3
+2026-03-13 14:38:32,009 [INFO] [1984dc5b] Song done.
+2026-03-13 14:38:35,351 [INFO] [1984dc5b] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:38:35,352 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:38:35,509 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:38:40,353 [INFO] [1984dc5b] Song done.
+2026-03-13 14:39:40,361 [INFO] [1984dc5b] No request: The read operation timed out
+2026-03-13 14:39:40,362 [INFO] [1984dc5b] QoS:
+{
+  "client_id": "1984dc5b",
+  "elapsed_s": 76.09,
+  "packets_sent": 100,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 185.41,
+  "avg_rtt_ms": 0.21,
+  "bitrate_changes": [
+    {
+      "time_s": 3.73,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:39:40,363 [INFO] [1984dc5b] Disconnected. Active clients: 0
+2026-03-13 14:40:52,728 [INFO] [70ad6bcd] Connected from ('127.0.0.1', 54846)
+2026-03-13 14:40:52,729 [INFO] [70ad6bcd] Connected. Active clients: 1
+2026-03-13 14:40:52,734 [INFO] [70ad6bcd] Session started from ('127.0.0.1', 54846)
+2026-03-13 14:41:02,435 [INFO] [70ad6bcd] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:41:02,436 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:41:02,612 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:41:03,437 [INFO] [70ad6bcd] Bitrate 2 -> 3
+2026-03-13 14:41:07,436 [INFO] [70ad6bcd] Song done.
+2026-03-13 14:42:07,454 [INFO] [70ad6bcd] No request: The read operation timed out
+2026-03-13 14:42:07,456 [INFO] [70ad6bcd] QoS:
+{
+  "client_id": "70ad6bcd",
+  "elapsed_s": 74.72,
+  "packets_sent": 50,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 94.39,
+  "avg_rtt_ms": 0.18,
+  "bitrate_changes": [
+    {
+      "time_s": 10.7,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:42:07,458 [INFO] [70ad6bcd] Disconnected. Active clients: 0
+2026-03-13 14:49:47,846 [INFO] [61a62a01] Connected from ('127.0.0.1', 61784)
+2026-03-13 14:49:47,847 [INFO] [61a62a01] Connected. Active clients: 1
+2026-03-13 14:49:47,853 [INFO] [61a62a01] Session started from ('127.0.0.1', 61784)
+2026-03-13 14:49:49,884 [INFO] [61a62a01] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:49:49,885 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:49:50,041 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:49:50,885 [INFO] [61a62a01] Bitrate 2 -> 3
+2026-03-13 14:49:54,885 [INFO] [61a62a01] Song done.
+2026-03-13 14:50:54,890 [INFO] [61a62a01] No request: The read operation timed out
+2026-03-13 14:50:54,890 [INFO] [61a62a01] QoS:
+{
+  "client_id": "61a62a01",
+  "elapsed_s": 67.04,
+  "packets_sent": 50,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 105.22,
+  "avg_rtt_ms": 0.14,
+  "bitrate_changes": [
+    {
+      "time_s": 3.03,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:50:54,891 [INFO] [61a62a01] Disconnected. Active clients: 0
+2026-03-13 14:52:00,744 [INFO] Song library (3 songs):
+2026-03-13 14:52:00,745 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-03-13 14:52:00,745 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 14:52:00,745 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 14:52:00,746 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:52:18,041 [INFO] [2a25c255] Connected from ('127.0.0.1', 64888)
+2026-03-13 14:52:18,041 [INFO] [2a25c255] Connected. Active clients: 1
+2026-03-13 14:52:18,047 [INFO] [2a25c255] Session started from ('127.0.0.1', 64888)
+2026-03-13 14:52:21,368 [INFO] [2a25c255] Confirmed: 'song1.mp3'
+2026-03-13 14:52:21,383 [INFO] Decoding 'song1.mp3' ...
+2026-03-13 14:52:21,586 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-03-13 14:52:22,369 [INFO] [2a25c255] Bitrate 2 -> 3
+2026-03-13 14:52:26,369 [INFO] [2a25c255] Song done.
+2026-03-13 14:52:28,928 [INFO] [2a25c255] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:52:28,929 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:52:29,102 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:52:33,930 [INFO] [2a25c255] Song done.
+2026-03-13 14:53:33,937 [INFO] [2a25c255] No request: The read operation timed out
+2026-03-13 14:53:33,942 [INFO] [2a25c255] QoS:
+{
+  "client_id": "2a25c255",
+  "elapsed_s": 75.89,
+  "packets_sent": 100,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 184.71,
+  "avg_rtt_ms": 0.22,
+  "bitrate_changes": [
+    {
+      "time_s": 4.32,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:53:33,944 [INFO] [2a25c255] Disconnected. Active clients: 0
+2026-03-13 14:54:35,043 [INFO] Shutting down ...
+2026-03-13 14:54:38,863 [INFO] Song library (3 songs):
+2026-03-13 14:54:38,864 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-03-13 14:54:38,864 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 14:54:38,864 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 14:54:38,865 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:54:44,234 [INFO] [4299bad1] Connected from ('127.0.0.1', 54550)
+2026-03-13 14:54:44,234 [INFO] [4299bad1] Connected. Active clients: 1
+2026-03-13 14:54:44,241 [INFO] [4299bad1] Session started from ('127.0.0.1', 54550)
+2026-03-13 14:54:49,501 [INFO] [4299bad1] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:54:49,524 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:54:49,670 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:54:50,518 [INFO] [4299bad1] Bitrate 2 -> 3
+2026-03-13 14:55:47,905 [INFO] [4299bad1] Song done.
+2026-03-13 14:56:01,944 [INFO] [4299bad1] Confirmed: 'song2.mp3'
+2026-03-13 14:56:01,945 [INFO] Decoding 'song2.mp3' ...
+2026-03-13 14:56:02,141 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-03-13 14:57:02,047 [INFO] [4299bad1] Song done.
+2026-03-13 14:57:10,010 [INFO] [4299bad1] No request: Client disconnected
+2026-03-13 14:57:10,010 [INFO] [4299bad1] QoS:
+{
+  "client_id": "4299bad1",
+  "elapsed_s": 145.77,
+  "packets_sent": 1185,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1146.45,
+  "avg_rtt_ms": 0.23,
+  "bitrate_changes": [
+    {
+      "time_s": 6.28,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:57:10,011 [INFO] [4299bad1] Disconnected. Active clients: 0
+2026-03-13 14:57:15,299 [INFO] Shutting down ...
+2026-03-13 14:57:46,063 [INFO] Song library (3 songs):
+2026-03-13 14:57:46,064 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-03-13 14:57:46,064 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 14:57:46,064 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 14:57:46,065 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 14:57:52,246 [INFO] [d47c22fb] Connected from ('127.0.0.1', 52346)
+2026-03-13 14:57:52,246 [INFO] [d47c22fb] Connected. Active clients: 1
+2026-03-13 14:57:52,253 [INFO] [d47c22fb] Session started from ('127.0.0.1', 52346)
+2026-03-13 14:57:55,429 [INFO] [d47c22fb] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 14:57:55,446 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 14:57:55,587 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 14:57:56,431 [INFO] [d47c22fb] Bitrate 2 -> 3
+2026-03-13 14:58:22,559 [ERROR] [d47c22fb] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-03-13 14:58:22,560 [INFO] [d47c22fb] QoS:
+{
+  "client_id": "d47c22fb",
+  "elapsed_s": 30.31,
+  "packets_sent": 270,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1257.19,
+  "avg_rtt_ms": 0.14,
+  "bitrate_changes": [
+    {
+      "time_s": 4.18,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 14:58:22,561 [INFO] [d47c22fb] Disconnected. Active clients: 0
+2026-03-13 15:29:27,532 [INFO] Song library (3 songs):
+2026-03-13 15:29:27,533 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-03-13 15:29:27,533 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 15:29:27,533 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 15:29:27,534 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 15:29:54,510 [INFO] [776cd1a5] Connected from ('127.0.0.1', 63925)
+2026-03-13 15:29:54,510 [INFO] [776cd1a5] Connected. Active clients: 1
+2026-03-13 15:29:54,522 [INFO] [776cd1a5] Session started from ('127.0.0.1', 63925)
+2026-03-13 15:30:54,529 [INFO] [776cd1a5] No request: The read operation timed out
+2026-03-13 15:30:54,531 [INFO] [776cd1a5] QoS:
+{
+  "client_id": "776cd1a5",
+  "elapsed_s": 60.01,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-03-13 15:30:54,532 [INFO] [776cd1a5] Disconnected. Active clients: 0
+2026-03-13 15:31:26,355 [INFO] Shutting down ...
+2026-03-13 15:31:29,852 [INFO] Song library (3 songs):
+2026-03-13 15:31:29,852 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-03-13 15:31:29,853 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-03-13 15:31:29,853 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-03-13 15:31:29,854 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-03-13 15:31:34,595 [INFO] [f648c518] Connected from ('127.0.0.1', 49439)
+2026-03-13 15:31:34,596 [INFO] [f648c518] Connected. Active clients: 1
+2026-03-13 15:31:34,606 [INFO] [f648c518] Session started from ('127.0.0.1', 49439)
+2026-03-13 15:31:50,034 [INFO] [f648c518] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-03-13 15:31:50,087 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-03-13 15:31:50,326 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-03-13 15:31:51,036 [INFO] [f648c518] Bitrate 2 -> 3
+2026-03-13 15:32:48,437 [INFO] [f648c518] Song done.
+2026-03-13 15:33:48,456 [INFO] [f648c518] No request: The read operation timed out
+2026-03-13 15:33:48,459 [INFO] [f648c518] QoS:
+{
+  "client_id": "f648c518",
+  "elapsed_s": 133.85,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 615.69,
+  "avg_rtt_ms": 0.11,
+  "bitrate_changes": [
+    {
+      "time_s": 16.43,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-03-13 15:33:48,460 [INFO] [f648c518] Disconnected. Active clients: 0
+2026-04-06 09:25:23,988 [INFO] SSL certificates found.
+2026-04-06 09:25:23,989 [INFO] Song library (3 songs):
+2026-04-06 09:25:23,989 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-04-06 09:25:23,989 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-04-06 09:25:23,989 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-04-06 09:25:23,990 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-04-06 09:25:33,161 [INFO] [5405b1ae] Connected from ('127.0.0.1', 55482)
+2026-04-06 09:25:33,161 [INFO] [5405b1ae] Connected. Active clients: 1
+2026-04-06 09:25:33,187 [INFO] [5405b1ae] Session started from ('127.0.0.1', 55482)
+2026-04-06 09:26:09,698 [INFO] [f6b73752] Connected from ('127.0.0.1', 55485)
+2026-04-06 09:26:09,698 [INFO] [f6b73752] Connected. Active clients: 2
+2026-04-06 09:26:09,702 [INFO] [f6b73752] Session started from ('127.0.0.1', 55485)
+2026-04-06 09:26:13,833 [INFO] [32223927] Connected from ('127.0.0.1', 55486)
+2026-04-06 09:26:13,833 [INFO] [32223927] Connected. Active clients: 3
+2026-04-06 09:26:13,837 [INFO] [32223927] Session started from ('127.0.0.1', 55486)
+2026-04-06 09:26:21,953 [INFO] [32223927] Confirmed: 'song1.mp3'
+2026-04-06 09:26:22,009 [INFO] Decoding 'song1.mp3' ...
+2026-04-06 09:26:24,866 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-04-06 09:26:24,875 [WARNING] [32223927] Pacing behind by 2.82s, resetting clock
+2026-04-06 09:26:25,776 [INFO] [32223927] Bitrate 2 -> 3
+2026-04-06 09:26:33,198 [INFO] [5405b1ae] No request: The read operation timed out
+2026-04-06 09:26:33,199 [INFO] [5405b1ae] Session ended. QoS report:
+{
+  "client_id": "5405b1ae",
+  "elapsed_s": 60.01,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:26:33,200 [INFO] [5405b1ae] Disconnected. Active clients: 2
+2026-04-06 09:27:09,722 [INFO] [f6b73752] No request: The read operation timed out
+2026-04-06 09:27:09,723 [INFO] [f6b73752] Session ended. QoS report:
+{
+  "client_id": "f6b73752",
+  "elapsed_s": 60.02,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:27:09,723 [INFO] [f6b73752] Disconnected. Active clients: 1
+2026-04-06 09:27:19,608 [INFO] [32223927] Session ended. QoS report:
+{
+  "client_id": "32223927",
+  "elapsed_s": 65.77,
+  "packets_sent": 453,
+  "packets_lost": 5,
+  "loss_rate_%": 1.1,
+  "retries": 5,
+  "throughput_kbps": 971.96,
+  "avg_rtt_ms": 0.26,
+  "bitrate_changes": [
+    {
+      "time_s": 11.94,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:27:19,609 [INFO] [32223927] Disconnected. Active clients: 0
+2026-04-06 09:27:37,213 [INFO] [62504482] Connected from ('127.0.0.1', 62204)
+2026-04-06 09:27:37,213 [INFO] [62504482] Connected. Active clients: 1
+2026-04-06 09:27:37,218 [INFO] [62504482] Session started from ('127.0.0.1', 62204)
+2026-04-06 09:27:37,220 [INFO] [62504482] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:27:37,220 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:27:37,386 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:27:37,396 [ERROR] [62504482] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:27:37,396 [INFO] [a9fd28b4] Connected from ('127.0.0.1', 62205)
+2026-04-06 09:27:37,397 [INFO] [62504482] Session ended. QoS report:
+{
+  "client_id": "62504482",
+  "elapsed_s": 0.18,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 791.46,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:27:37,397 [INFO] [a9fd28b4] Connected. Active clients: 2
+2026-04-06 09:27:37,397 [INFO] [62504482] Disconnected. Active clients: 1
+2026-04-06 09:27:37,400 [INFO] [a9fd28b4] Session started from ('127.0.0.1', 62205)
+2026-04-06 09:27:37,400 [INFO] [a9fd28b4] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:27:37,401 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:27:37,512 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:27:37,517 [ERROR] [a9fd28b4] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:27:37,518 [INFO] [a9fd28b4] Session ended. QoS report:
+{
+  "client_id": "a9fd28b4",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1193.98,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:27:37,518 [INFO] [a559ca40] Connected from ('127.0.0.1', 62206)
+2026-04-06 09:27:37,518 [INFO] [a559ca40] Connected. Active clients: 2
+2026-04-06 09:27:37,518 [INFO] [a9fd28b4] Disconnected. Active clients: 1
+2026-04-06 09:27:37,521 [INFO] [a559ca40] Session started from ('127.0.0.1', 62206)
+2026-04-06 09:27:37,522 [INFO] [a559ca40] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:27:37,522 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:27:37,633 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:27:37,638 [ERROR] [a559ca40] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:27:37,639 [INFO] [a559ca40] Session ended. QoS report:
+{
+  "client_id": "a559ca40",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1200.84,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:27:37,639 [INFO] [f6afa8c9] Connected from ('127.0.0.1', 62207)
+2026-04-06 09:27:37,639 [INFO] [f6afa8c9] Connected. Active clients: 2
+2026-04-06 09:27:37,639 [INFO] [a559ca40] Disconnected. Active clients: 1
+2026-04-06 09:27:37,642 [INFO] [f6afa8c9] Session started from ('127.0.0.1', 62207)
+2026-04-06 09:27:37,643 [INFO] [f6afa8c9] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:27:37,643 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:27:37,752 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:27:37,757 [ERROR] [f6afa8c9] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:27:37,758 [INFO] [f6afa8c9] Session ended. QoS report:
+{
+  "client_id": "f6afa8c9",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1219.9,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:27:37,758 [INFO] [21a70bc9] Connected from ('127.0.0.1', 62208)
+2026-04-06 09:27:37,758 [INFO] [21a70bc9] Connected. Active clients: 2
+2026-04-06 09:27:37,758 [INFO] [f6afa8c9] Disconnected. Active clients: 1
+2026-04-06 09:27:37,761 [INFO] [21a70bc9] Session started from ('127.0.0.1', 62208)
+2026-04-06 09:27:37,761 [INFO] [21a70bc9] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:27:37,762 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:27:37,872 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:27:37,878 [ERROR] [21a70bc9] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:27:37,878 [INFO] [21a70bc9] Session ended. QoS report:
+{
+  "client_id": "21a70bc9",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1200.11,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:27:37,879 [INFO] [21a70bc9] Disconnected. Active clients: 0
+2026-04-06 09:27:43,172 [INFO] [137cc3f8] Connected from ('127.0.0.1', 62210)
+2026-04-06 09:27:43,172 [INFO] [137cc3f8] Connected. Active clients: 1
+2026-04-06 09:27:43,175 [INFO] [137cc3f8] Session started from ('127.0.0.1', 62210)
+2026-04-06 09:27:43,176 [INFO] [137cc3f8] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:27:43,177 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:27:43,297 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:27:44,178 [INFO] [137cc3f8] Bitrate 2 -> 3
+2026-04-06 09:28:41,584 [INFO] [137cc3f8] Song done.
+2026-04-06 09:28:41,585 [INFO] [137cc3f8] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:28:41,585 [INFO] [137cc3f8] Session ended. QoS report:
+{
+  "client_id": "137cc3f8",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.91,
+  "avg_rtt_ms": 0.22,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:28:41,585 [INFO] [137cc3f8] Disconnected. Active clients: 0
+2026-04-06 09:28:48,057 [INFO] [53a8dbf7] Connected from ('127.0.0.1', 56681)
+2026-04-06 09:28:48,057 [INFO] [53a8dbf7] Connected. Active clients: 1
+2026-04-06 09:28:48,062 [INFO] [53a8dbf7] Session started from ('127.0.0.1', 56681)
+2026-04-06 09:28:48,063 [INFO] [53a8dbf7] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:28:48,064 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:28:48,179 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:28:48,184 [ERROR] [53a8dbf7] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:28:48,185 [INFO] [53a8dbf7] Session ended. QoS report:
+{
+  "client_id": "53a8dbf7",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1148.4,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:28:48,185 [INFO] [b963d36b] Connected from ('127.0.0.1', 56682)
+2026-04-06 09:28:48,185 [INFO] [b963d36b] Connected. Active clients: 2
+2026-04-06 09:28:48,186 [INFO] [53a8dbf7] Disconnected. Active clients: 1
+2026-04-06 09:28:48,188 [INFO] [b963d36b] Session started from ('127.0.0.1', 56682)
+2026-04-06 09:28:48,189 [INFO] [b963d36b] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:28:48,189 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:28:48,300 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:28:48,305 [ERROR] [b963d36b] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:28:48,306 [INFO] [b963d36b] Session ended. QoS report:
+{
+  "client_id": "b963d36b",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1195.81,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:28:48,307 [INFO] [74ad9806] Connected from ('127.0.0.1', 56683)
+2026-04-06 09:28:48,307 [INFO] [74ad9806] Connected. Active clients: 2
+2026-04-06 09:28:48,307 [INFO] [b963d36b] Disconnected. Active clients: 1
+2026-04-06 09:28:48,310 [INFO] [74ad9806] Session started from ('127.0.0.1', 56683)
+2026-04-06 09:28:48,310 [INFO] [74ad9806] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:28:48,311 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:28:48,421 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:28:48,426 [ERROR] [74ad9806] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:28:48,426 [INFO] [74ad9806] Session ended. QoS report:
+{
+  "client_id": "74ad9806",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1207.13,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:28:48,427 [INFO] [801f320b] Connected from ('127.0.0.1', 56684)
+2026-04-06 09:28:48,427 [INFO] [801f320b] Connected. Active clients: 2
+2026-04-06 09:28:48,427 [INFO] [74ad9806] Disconnected. Active clients: 1
+2026-04-06 09:28:48,430 [INFO] [801f320b] Session started from ('127.0.0.1', 56684)
+2026-04-06 09:28:48,430 [INFO] [801f320b] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:28:48,431 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:28:48,542 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:28:48,547 [ERROR] [801f320b] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:28:48,548 [INFO] [801f320b] Session ended. QoS report:
+{
+  "client_id": "801f320b",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1191.24,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:28:48,549 [INFO] [8a826377] Connected from ('127.0.0.1', 56685)
+2026-04-06 09:28:48,549 [INFO] [8a826377] Connected. Active clients: 2
+2026-04-06 09:28:48,549 [INFO] [801f320b] Disconnected. Active clients: 1
+2026-04-06 09:28:48,552 [INFO] [8a826377] Session started from ('127.0.0.1', 56685)
+2026-04-06 09:28:48,552 [INFO] [8a826377] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:28:48,553 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:28:48,662 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:28:48,667 [ERROR] [8a826377] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:28:48,668 [INFO] [8a826377] Session ended. QoS report:
+{
+  "client_id": "8a826377",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1208.34,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:28:48,669 [INFO] [a39b371f] Connected from ('127.0.0.1', 56686)
+2026-04-06 09:28:48,669 [INFO] [a39b371f] Connected. Active clients: 2
+2026-04-06 09:28:48,669 [INFO] [8a826377] Disconnected. Active clients: 1
+2026-04-06 09:28:48,672 [INFO] [a39b371f] Session started from ('127.0.0.1', 56686)
+2026-04-06 09:28:48,672 [INFO] [a39b371f] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:28:48,673 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:28:48,787 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:28:49,674 [INFO] [a39b371f] Bitrate 2 -> 3
+2026-04-06 09:29:47,079 [INFO] [a39b371f] Song done.
+2026-04-06 09:29:47,081 [INFO] [a39b371f] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:29:47,081 [INFO] [a39b371f] Session ended. QoS report:
+{
+  "client_id": "a39b371f",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.93,
+  "avg_rtt_ms": 0.25,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:29:47,081 [INFO] [a39b371f] Disconnected. Active clients: 0
+2026-04-06 09:29:47,083 [INFO] [28219516] Connected from ('127.0.0.1', 53303)
+2026-04-06 09:29:47,083 [INFO] [28219516] Connected. Active clients: 1
+2026-04-06 09:29:47,086 [INFO] [28219516] Session started from ('127.0.0.1', 53303)
+2026-04-06 09:29:47,088 [INFO] [28219516] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:29:47,089 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:29:47,134 [INFO] [701094b8] Connected from ('127.0.0.1', 53304)
+2026-04-06 09:29:47,134 [INFO] [701094b8] Connected. Active clients: 2
+2026-04-06 09:29:47,137 [INFO] [701094b8] Session started from ('127.0.0.1', 53304)
+2026-04-06 09:29:47,138 [INFO] [701094b8] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:29:47,138 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:29:47,186 [INFO] [291bb475] Connected from ('127.0.0.1', 53305)
+2026-04-06 09:29:47,187 [INFO] [291bb475] Connected. Active clients: 3
+2026-04-06 09:29:47,190 [INFO] [291bb475] Session started from ('127.0.0.1', 53305)
+2026-04-06 09:29:47,190 [INFO] [291bb475] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:29:47,191 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:29:47,218 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:29:47,283 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:29:47,330 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:29:48,090 [INFO] [28219516] Bitrate 2 -> 3
+2026-04-06 09:29:48,139 [INFO] [701094b8] Bitrate 2 -> 3
+2026-04-06 09:29:48,191 [INFO] [291bb475] Bitrate 2 -> 3
+2026-04-06 09:30:45,495 [INFO] [28219516] Song done.
+2026-04-06 09:30:45,496 [INFO] [28219516] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:30:45,497 [INFO] [28219516] Session ended. QoS report:
+{
+  "client_id": "28219516",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.9,
+  "avg_rtt_ms": 0.28,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:30:45,497 [INFO] [28219516] Disconnected. Active clients: 2
+2026-04-06 09:30:45,545 [INFO] [701094b8] Song done.
+2026-04-06 09:30:45,546 [INFO] [701094b8] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:30:45,546 [INFO] [701094b8] Session ended. QoS report:
+{
+  "client_id": "701094b8",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.93,
+  "avg_rtt_ms": 0.24,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:30:45,547 [INFO] [701094b8] Disconnected. Active clients: 1
+2026-04-06 09:30:45,597 [INFO] [291bb475] Song done.
+2026-04-06 09:30:45,598 [INFO] [291bb475] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:30:45,598 [INFO] [291bb475] Session ended. QoS report:
+{
+  "client_id": "291bb475",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.94,
+  "avg_rtt_ms": 0.24,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:30:45,599 [INFO] [291bb475] Disconnected. Active clients: 0
+2026-04-06 09:30:45,601 [INFO] [101cd10b] Connected from ('127.0.0.1', 50492)
+2026-04-06 09:30:45,601 [INFO] [101cd10b] Connected. Active clients: 1
+2026-04-06 09:30:45,604 [INFO] [101cd10b] Session started from ('127.0.0.1', 50492)
+2026-04-06 09:30:45,605 [INFO] [101cd10b] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:30:45,605 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:30:45,726 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:30:46,606 [INFO] [101cd10b] Bitrate 2 -> 1
+2026-04-06 09:30:50,606 [INFO] [101cd10b] Bitrate 1 -> 2
+2026-04-06 09:30:51,606 [INFO] [101cd10b] Bitrate 2 -> 3
+2026-04-06 09:31:08,608 [INFO] [101cd10b] Bitrate 3 -> 2
+2026-04-06 09:31:09,608 [INFO] [101cd10b] Bitrate 2 -> 1
+2026-04-06 09:31:25,711 [ERROR] [101cd10b] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:31:25,712 [INFO] [101cd10b] Session ended. QoS report:
+{
+  "client_id": "101cd10b",
+  "elapsed_s": 40.11,
+  "packets_sent": 422,
+  "packets_lost": 20,
+  "loss_rate_%": 4.74,
+  "retries": 20,
+  "throughput_kbps": 1484.81,
+  "avg_rtt_ms": 0.23,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 1
+    },
+    {
+      "time_s": 5.0,
+      "from": 1,
+      "to": 2
+    },
+    {
+      "time_s": 6.0,
+      "from": 2,
+      "to": 3
+    },
+    {
+      "time_s": 23.0,
+      "from": 3,
+      "to": 2
+    },
+    {
+      "time_s": 24.0,
+      "from": 2,
+      "to": 1
+    }
+  ]
+}
+2026-04-06 09:31:25,713 [INFO] [101cd10b] Disconnected. Active clients: 0
+2026-04-06 09:31:39,031 [INFO] Shutting down ...
+2026-04-06 09:33:44,949 [INFO] SSL certificates found.
+2026-04-06 09:33:44,950 [INFO] Song library (3 songs):
+2026-04-06 09:33:44,950 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-04-06 09:33:44,950 [INFO]    [ 2] song1.mp3  (3116 KB)
+2026-04-06 09:33:44,950 [INFO]    [ 3] song2.mp3  (1875 KB)
+2026-04-06 09:33:44,951 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-04-06 09:34:10,313 [INFO] [7b896cc7] Connected from ('127.0.0.1', 50709)
+2026-04-06 09:34:10,313 [INFO] [7b896cc7] Connected. Active clients: 1
+2026-04-06 09:34:10,318 [INFO] [7b896cc7] Session started from ('127.0.0.1', 50709)
+2026-04-06 09:34:13,830 [INFO] [7b896cc7] Confirmed: 'song1.mp3'
+2026-04-06 09:34:13,842 [INFO] Decoding 'song1.mp3' ...
+2026-04-06 09:34:14,026 [INFO] Decoded: 17181 KB PCM, 99.7s duration
+2026-04-06 09:34:14,832 [INFO] [7b896cc7] Bitrate 2 -> 3
+2026-04-06 09:34:19,180 [INFO] [710e10e9] Connected from ('127.0.0.1', 50711)
+2026-04-06 09:34:19,180 [INFO] [710e10e9] Connected. Active clients: 2
+2026-04-06 09:34:19,183 [INFO] [710e10e9] Session started from ('127.0.0.1', 50711)
+2026-04-06 09:34:24,173 [INFO] [710e10e9] Confirmed: 'song2.mp3'
+2026-04-06 09:34:24,174 [INFO] Decoding 'song2.mp3' ...
+2026-04-06 09:34:24,374 [INFO] Decoded: 10340 KB PCM, 60.0s duration
+2026-04-06 09:34:25,175 [INFO] [710e10e9] Bitrate 2 -> 3
+2026-04-06 09:34:28,453 [INFO] [37b9a19f] Connected from ('127.0.0.1', 50712)
+2026-04-06 09:34:28,453 [INFO] [37b9a19f] Connected. Active clients: 3
+2026-04-06 09:34:28,457 [INFO] [37b9a19f] Session started from ('127.0.0.1', 50712)
+2026-04-06 09:34:30,930 [INFO] [37b9a19f] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:30,931 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:31,050 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:31,932 [INFO] [37b9a19f] Bitrate 2 -> 3
+2026-04-06 09:34:34,973 [INFO] [dfd8f379] Connected from ('127.0.0.1', 50713)
+2026-04-06 09:34:34,973 [INFO] [dfd8f379] Connected. Active clients: 4
+2026-04-06 09:34:34,976 [INFO] [dfd8f379] Session started from ('127.0.0.1', 50713)
+2026-04-06 09:34:49,997 [INFO] [b154075a] Connected from ('127.0.0.1', 50715)
+2026-04-06 09:34:49,997 [INFO] [b154075a] Connected. Active clients: 5
+2026-04-06 09:34:50,000 [INFO] [b154075a] Session started from ('127.0.0.1', 50715)
+2026-04-06 09:34:50,001 [INFO] [b154075a] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:50,001 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:50,120 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:50,124 [ERROR] [b154075a] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:34:50,125 [INFO] [b154075a] Session ended. QoS report:
+{
+  "client_id": "b154075a",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1134.93,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:34:50,125 [INFO] [6bddc9ba] Connected from ('127.0.0.1', 50716)
+2026-04-06 09:34:50,125 [INFO] [6bddc9ba] Connected. Active clients: 6
+2026-04-06 09:34:50,125 [INFO] [b154075a] Disconnected. Active clients: 5
+2026-04-06 09:34:50,128 [INFO] [6bddc9ba] Session started from ('127.0.0.1', 50716)
+2026-04-06 09:34:50,129 [INFO] [6bddc9ba] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:50,129 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:50,248 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:50,252 [ERROR] [6bddc9ba] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:34:50,253 [INFO] [6bddc9ba] Session ended. QoS report:
+{
+  "client_id": "6bddc9ba",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1129.44,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:34:50,253 [INFO] [9b2c5afd] Connected from ('127.0.0.1', 50717)
+2026-04-06 09:34:50,253 [INFO] [9b2c5afd] Connected. Active clients: 6
+2026-04-06 09:34:50,254 [INFO] [6bddc9ba] Disconnected. Active clients: 5
+2026-04-06 09:34:50,256 [INFO] [9b2c5afd] Session started from ('127.0.0.1', 50717)
+2026-04-06 09:34:50,257 [INFO] [9b2c5afd] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:50,257 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:50,369 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:50,373 [ERROR] [9b2c5afd] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:34:50,374 [INFO] [9b2c5afd] Session ended. QoS report:
+{
+  "client_id": "9b2c5afd",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1199.11,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:34:50,374 [INFO] [b79bbd81] Connected from ('127.0.0.1', 50718)
+2026-04-06 09:34:50,374 [INFO] [b79bbd81] Connected. Active clients: 6
+2026-04-06 09:34:50,375 [INFO] [9b2c5afd] Disconnected. Active clients: 5
+2026-04-06 09:34:50,377 [INFO] [b79bbd81] Session started from ('127.0.0.1', 50718)
+2026-04-06 09:34:50,378 [INFO] [b79bbd81] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:50,378 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:50,496 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:50,500 [ERROR] [b79bbd81] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:34:50,501 [INFO] [b79bbd81] Session ended. QoS report:
+{
+  "client_id": "b79bbd81",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1146.34,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:34:50,501 [INFO] [b216fda5] Connected from ('127.0.0.1', 50719)
+2026-04-06 09:34:50,501 [INFO] [b216fda5] Connected. Active clients: 6
+2026-04-06 09:34:50,501 [INFO] [b79bbd81] Disconnected. Active clients: 5
+2026-04-06 09:34:50,504 [INFO] [b216fda5] Session started from ('127.0.0.1', 50719)
+2026-04-06 09:34:50,504 [INFO] [b216fda5] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:50,505 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:50,620 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:50,625 [ERROR] [b216fda5] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:34:50,626 [INFO] [b216fda5] Session ended. QoS report:
+{
+  "client_id": "b216fda5",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1158.53,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:34:50,626 [INFO] [2b7895bb] Connected from ('127.0.0.1', 50720)
+2026-04-06 09:34:50,626 [INFO] [2b7895bb] Connected. Active clients: 6
+2026-04-06 09:34:50,626 [INFO] [b216fda5] Disconnected. Active clients: 5
+2026-04-06 09:34:50,629 [INFO] [2b7895bb] Session started from ('127.0.0.1', 50720)
+2026-04-06 09:34:50,630 [INFO] [2b7895bb] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:34:50,630 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:34:50,747 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:34:51,631 [INFO] [2b7895bb] Bitrate 2 -> 3
+2026-04-06 09:35:24,280 [INFO] [710e10e9] Song done.
+2026-04-06 09:35:29,338 [INFO] [37b9a19f] Song done.
+2026-04-06 09:35:34,996 [INFO] [dfd8f379] No request: The read operation timed out
+2026-04-06 09:35:34,997 [INFO] [dfd8f379] Session ended. QoS report:
+{
+  "client_id": "dfd8f379",
+  "elapsed_s": 60.02,
+  "packets_sent": 0,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 0.0,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:35:34,998 [INFO] [dfd8f379] Disconnected. Active clients: 4
+2026-04-06 09:35:49,037 [INFO] [2b7895bb] Song done.
+2026-04-06 09:35:49,042 [INFO] [2b7895bb] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:35:49,043 [INFO] [2b7895bb] Session ended. QoS report:
+{
+  "client_id": "2b7895bb",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.83,
+  "avg_rtt_ms": 0.25,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:35:49,045 [INFO] [2b7895bb] Disconnected. Active clients: 3
+2026-04-06 09:35:49,050 [INFO] [640e33b4] Connected from ('127.0.0.1', 58510)
+2026-04-06 09:35:49,050 [INFO] [640e33b4] Connected. Active clients: 4
+2026-04-06 09:35:49,071 [INFO] [640e33b4] Session started from ('127.0.0.1', 58510)
+2026-04-06 09:35:49,075 [INFO] [640e33b4] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:35:49,077 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:35:49,101 [INFO] [dc1eaa24] Connected from ('127.0.0.1', 58511)
+2026-04-06 09:35:49,102 [INFO] [dc1eaa24] Connected. Active clients: 5
+2026-04-06 09:35:49,121 [INFO] [dc1eaa24] Session started from ('127.0.0.1', 58511)
+2026-04-06 09:35:49,124 [INFO] [dc1eaa24] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:35:49,126 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:35:49,152 [INFO] [f6fbd165] Connected from ('127.0.0.1', 58512)
+2026-04-06 09:35:49,152 [INFO] [f6fbd165] Connected. Active clients: 6
+2026-04-06 09:35:49,173 [INFO] [f6fbd165] Session started from ('127.0.0.1', 58512)
+2026-04-06 09:35:49,178 [INFO] [f6fbd165] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:35:49,179 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:35:49,492 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:35:49,610 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:35:49,705 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:35:50,080 [INFO] [640e33b4] Bitrate 2 -> 3
+2026-04-06 09:35:50,130 [INFO] [dc1eaa24] Bitrate 2 -> 3
+2026-04-06 09:35:50,180 [INFO] [f6fbd165] Bitrate 2 -> 3
+2026-04-06 09:35:53,641 [INFO] [7b896cc7] Song done.
+2026-04-06 09:36:24,300 [INFO] [710e10e9] No request: The read operation timed out
+2026-04-06 09:36:24,301 [INFO] [710e10e9] Session ended. QoS report:
+{
+  "client_id": "710e10e9",
+  "elapsed_s": 125.12,
+  "packets_sent": 601,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 677.01,
+  "avg_rtt_ms": 0.22,
+  "bitrate_changes": [
+    {
+      "time_s": 5.99,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:36:24,301 [INFO] [710e10e9] Disconnected. Active clients: 5
+2026-04-06 09:36:29,362 [INFO] [37b9a19f] No request: The read operation timed out
+2026-04-06 09:36:29,362 [INFO] [37b9a19f] Session ended. QoS report:
+{
+  "client_id": "37b9a19f",
+  "elapsed_s": 120.91,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 681.62,
+  "avg_rtt_ms": 0.29,
+  "bitrate_changes": [
+    {
+      "time_s": 3.47,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:36:29,363 [INFO] [37b9a19f] Disconnected. Active clients: 4
+2026-04-06 09:36:37,428 [INFO] [eac6e7b0] Connected from ('127.0.0.1', 56098)
+2026-04-06 09:36:37,429 [INFO] [eac6e7b0] Connected. Active clients: 5
+2026-04-06 09:36:37,432 [INFO] [eac6e7b0] Session started from ('127.0.0.1', 56098)
+2026-04-06 09:36:37,433 [INFO] [eac6e7b0] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:37,434 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:37,552 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:37,557 [ERROR] [eac6e7b0] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:36:37,558 [INFO] [eac6e7b0] Session ended. QoS report:
+{
+  "client_id": "eac6e7b0",
+  "elapsed_s": 0.13,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1121.93,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:36:37,558 [INFO] [66a681bf] Connected from ('127.0.0.1', 56099)
+2026-04-06 09:36:37,558 [INFO] [66a681bf] Connected. Active clients: 6
+2026-04-06 09:36:37,558 [INFO] [eac6e7b0] Disconnected. Active clients: 5
+2026-04-06 09:36:37,561 [INFO] [66a681bf] Session started from ('127.0.0.1', 56099)
+2026-04-06 09:36:37,562 [INFO] [66a681bf] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:37,562 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:37,673 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:37,678 [ERROR] [66a681bf] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:36:37,678 [INFO] [66a681bf] Session ended. QoS report:
+{
+  "client_id": "66a681bf",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1202.17,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:36:37,679 [INFO] [d1440bae] Connected from ('127.0.0.1', 56100)
+2026-04-06 09:36:37,679 [INFO] [d1440bae] Connected. Active clients: 6
+2026-04-06 09:36:37,679 [INFO] [66a681bf] Disconnected. Active clients: 5
+2026-04-06 09:36:37,682 [INFO] [d1440bae] Session started from ('127.0.0.1', 56100)
+2026-04-06 09:36:37,682 [INFO] [d1440bae] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:37,683 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:37,796 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:37,801 [ERROR] [d1440bae] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:36:37,802 [INFO] [d1440bae] Session ended. QoS report:
+{
+  "client_id": "d1440bae",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1173.74,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:36:37,802 [INFO] [e402d22c] Connected from ('127.0.0.1', 56101)
+2026-04-06 09:36:37,802 [INFO] [e402d22c] Connected. Active clients: 6
+2026-04-06 09:36:37,803 [INFO] [d1440bae] Disconnected. Active clients: 5
+2026-04-06 09:36:37,805 [INFO] [e402d22c] Session started from ('127.0.0.1', 56101)
+2026-04-06 09:36:37,806 [INFO] [e402d22c] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:37,806 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:37,917 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:37,922 [ERROR] [e402d22c] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:36:37,923 [INFO] [e402d22c] Session ended. QoS report:
+{
+  "client_id": "e402d22c",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1205.83,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:36:37,923 [INFO] [59c45142] Connected from ('127.0.0.1', 56102)
+2026-04-06 09:36:37,923 [INFO] [59c45142] Connected. Active clients: 6
+2026-04-06 09:36:37,923 [INFO] [e402d22c] Disconnected. Active clients: 5
+2026-04-06 09:36:37,926 [INFO] [59c45142] Session started from ('127.0.0.1', 56102)
+2026-04-06 09:36:37,926 [INFO] [59c45142] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:37,927 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:38,039 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:38,044 [ERROR] [59c45142] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:36:38,045 [INFO] [59c45142] Session ended. QoS report:
+{
+  "client_id": "59c45142",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1182.62,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:36:38,046 [INFO] [59c45142] Disconnected. Active clients: 4
+2026-04-06 09:36:38,047 [INFO] [95238a27] Connected from ('127.0.0.1', 56103)
+2026-04-06 09:36:38,047 [INFO] [95238a27] Connected. Active clients: 5
+2026-04-06 09:36:38,050 [INFO] [95238a27] Session started from ('127.0.0.1', 56103)
+2026-04-06 09:36:38,051 [INFO] [95238a27] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:38,051 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:38,166 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:39,051 [INFO] [95238a27] Bitrate 2 -> 3
+2026-04-06 09:36:47,484 [INFO] [640e33b4] Song done.
+2026-04-06 09:36:47,484 [INFO] [640e33b4] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:36:47,484 [INFO] [640e33b4] Session ended. QoS report:
+{
+  "client_id": "640e33b4",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.82,
+  "avg_rtt_ms": 0.26,
+  "bitrate_changes": [
+    {
+      "time_s": 1.01,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:36:47,485 [INFO] [640e33b4] Disconnected. Active clients: 4
+2026-04-06 09:36:47,533 [INFO] [dc1eaa24] Song done.
+2026-04-06 09:36:47,533 [INFO] [dc1eaa24] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:36:47,533 [INFO] [dc1eaa24] Session ended. QoS report:
+{
+  "client_id": "dc1eaa24",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.86,
+  "avg_rtt_ms": 0.24,
+  "bitrate_changes": [
+    {
+      "time_s": 1.01,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:36:47,534 [INFO] [dc1eaa24] Disconnected. Active clients: 3
+2026-04-06 09:36:47,586 [INFO] [f6fbd165] Song done.
+2026-04-06 09:36:47,586 [INFO] [f6fbd165] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:36:47,586 [INFO] [f6fbd165] Session ended. QoS report:
+{
+  "client_id": "f6fbd165",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.82,
+  "avg_rtt_ms": 0.25,
+  "bitrate_changes": [
+    {
+      "time_s": 1.01,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:36:47,587 [INFO] [f6fbd165] Disconnected. Active clients: 2
+2026-04-06 09:36:47,587 [INFO] [59657870] Connected from ('127.0.0.1', 54419)
+2026-04-06 09:36:47,588 [INFO] [59657870] Connected. Active clients: 3
+2026-04-06 09:36:47,590 [INFO] [59657870] Session started from ('127.0.0.1', 54419)
+2026-04-06 09:36:47,591 [INFO] [59657870] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:36:47,591 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:36:47,710 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:36:48,592 [INFO] [59657870] Bitrate 2 -> 3
+2026-04-06 09:36:53,593 [INFO] [59657870] Bitrate 3 -> 2
+2026-04-06 09:36:53,655 [INFO] [7b896cc7] No request: The read operation timed out
+2026-04-06 09:36:53,655 [INFO] [7b896cc7] Session ended. QoS report:
+{
+  "client_id": "7b896cc7",
+  "elapsed_s": 163.34,
+  "packets_sent": 998,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 861.69,
+  "avg_rtt_ms": 0.22,
+  "bitrate_changes": [
+    {
+      "time_s": 4.51,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:36:53,656 [INFO] [7b896cc7] Disconnected. Active clients: 2
+2026-04-06 09:36:54,594 [INFO] [59657870] Bitrate 2 -> 1
+2026-04-06 09:37:00,764 [INFO] [763fa878] Connected from ('127.0.0.1', 62549)
+2026-04-06 09:37:00,764 [INFO] [763fa878] Connected. Active clients: 3
+2026-04-06 09:37:00,767 [INFO] [763fa878] Session started from ('127.0.0.1', 62549)
+2026-04-06 09:37:00,767 [INFO] [763fa878] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:00,768 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:00,890 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:00,894 [ERROR] [763fa878] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:37:00,895 [INFO] [763fa878] Session ended. QoS report:
+{
+  "client_id": "763fa878",
+  "elapsed_s": 0.13,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1099.3,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:37:00,895 [INFO] [f7292928] Connected from ('127.0.0.1', 62550)
+2026-04-06 09:37:00,895 [INFO] [f7292928] Connected. Active clients: 4
+2026-04-06 09:37:00,896 [INFO] [763fa878] Disconnected. Active clients: 3
+2026-04-06 09:37:00,898 [INFO] [f7292928] Session started from ('127.0.0.1', 62550)
+2026-04-06 09:37:00,899 [INFO] [f7292928] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:00,899 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:01,010 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:01,014 [ERROR] [f7292928] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:37:01,015 [INFO] [f7292928] Session ended. QoS report:
+{
+  "client_id": "f7292928",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1206.34,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:37:01,016 [INFO] [e5adb7d8] Connected from ('127.0.0.1', 62551)
+2026-04-06 09:37:01,016 [INFO] [e5adb7d8] Connected. Active clients: 4
+2026-04-06 09:37:01,016 [INFO] [f7292928] Disconnected. Active clients: 3
+2026-04-06 09:37:01,018 [INFO] [e5adb7d8] Session started from ('127.0.0.1', 62551)
+2026-04-06 09:37:01,019 [INFO] [e5adb7d8] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:01,019 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:01,132 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:01,136 [ERROR] [e5adb7d8] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:37:01,137 [INFO] [e5adb7d8] Session ended. QoS report:
+{
+  "client_id": "e5adb7d8",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1194.05,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:37:01,137 [INFO] [79c292b9] Connected from ('127.0.0.1', 62552)
+2026-04-06 09:37:01,137 [INFO] [79c292b9] Connected. Active clients: 4
+2026-04-06 09:37:01,137 [INFO] [e5adb7d8] Disconnected. Active clients: 3
+2026-04-06 09:37:01,140 [INFO] [79c292b9] Session started from ('127.0.0.1', 62552)
+2026-04-06 09:37:01,140 [INFO] [79c292b9] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:01,141 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:01,255 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:01,259 [ERROR] [79c292b9] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:37:01,260 [INFO] [79c292b9] Session ended. QoS report:
+{
+  "client_id": "79c292b9",
+  "elapsed_s": 0.12,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1176.35,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:37:01,260 [INFO] [f705805d] Connected from ('127.0.0.1', 62553)
+2026-04-06 09:37:01,260 [INFO] [f705805d] Connected. Active clients: 4
+2026-04-06 09:37:01,260 [INFO] [79c292b9] Disconnected. Active clients: 3
+2026-04-06 09:37:01,263 [INFO] [f705805d] Session started from ('127.0.0.1', 62553)
+2026-04-06 09:37:01,264 [INFO] [f705805d] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:01,264 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:01,373 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:01,377 [ERROR] [f705805d] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:37:01,378 [INFO] [f705805d] Session ended. QoS report:
+{
+  "client_id": "f705805d",
+  "elapsed_s": 0.11,
+  "packets_sent": 1,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1234.82,
+  "avg_rtt_ms": 0.0,
+  "bitrate_changes": []
+}
+2026-04-06 09:37:01,378 [INFO] [d57136cb] Connected from ('127.0.0.1', 62554)
+2026-04-06 09:37:01,378 [INFO] [d57136cb] Connected. Active clients: 4
+2026-04-06 09:37:01,378 [INFO] [f705805d] Disconnected. Active clients: 3
+2026-04-06 09:37:01,381 [INFO] [d57136cb] Session started from ('127.0.0.1', 62554)
+2026-04-06 09:37:01,381 [INFO] [d57136cb] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:01,382 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:01,498 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:02,382 [INFO] [d57136cb] Bitrate 2 -> 3
+2026-04-06 09:37:36,457 [INFO] [95238a27] Song done.
+2026-04-06 09:37:36,458 [INFO] [95238a27] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:37:36,459 [INFO] [95238a27] Session ended. QoS report:
+{
+  "client_id": "95238a27",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.94,
+  "avg_rtt_ms": 0.22,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:37:36,460 [INFO] [95238a27] Disconnected. Active clients: 2
+2026-04-06 09:37:36,462 [INFO] [2f2978db] Connected from ('127.0.0.1', 62557)
+2026-04-06 09:37:36,463 [INFO] [2f2978db] Connected. Active clients: 3
+2026-04-06 09:37:36,466 [INFO] [2f2978db] Session started from ('127.0.0.1', 62557)
+2026-04-06 09:37:36,467 [INFO] [2f2978db] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:36,467 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:36,564 [INFO] [556bb3ee] Connected from ('127.0.0.1', 62558)
+2026-04-06 09:37:36,564 [INFO] [556bb3ee] Connected. Active clients: 4
+2026-04-06 09:37:36,567 [INFO] [556bb3ee] Session started from ('127.0.0.1', 62558)
+2026-04-06 09:37:36,568 [INFO] [556bb3ee] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:36,570 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:36,585 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:36,686 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:37,467 [INFO] [2f2978db] Bitrate 2 -> 3
+2026-04-06 09:37:37,571 [INFO] [556bb3ee] Bitrate 2 -> 3
+2026-04-06 09:37:45,998 [INFO] [59657870] Song done.
+2026-04-06 09:37:45,998 [INFO] [59657870] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:37:45,999 [INFO] [59657870] Session ended. QoS report:
+{
+  "client_id": "59657870",
+  "elapsed_s": 58.41,
+  "packets_sent": 611,
+  "packets_lost": 27,
+  "loss_rate_%": 4.42,
+  "retries": 27,
+  "throughput_kbps": 1476.19,
+  "avg_rtt_ms": 0.19,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    },
+    {
+      "time_s": 6.0,
+      "from": 3,
+      "to": 2
+    },
+    {
+      "time_s": 7.0,
+      "from": 2,
+      "to": 1
+    }
+  ]
+}
+2026-04-06 09:37:45,999 [INFO] [59657870] Disconnected. Active clients: 3
+2026-04-06 09:37:59,788 [INFO] [d57136cb] Song done.
+2026-04-06 09:37:59,790 [INFO] [d57136cb] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:37:59,790 [INFO] [d57136cb] Session ended. QoS report:
+{
+  "client_id": "d57136cb",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.93,
+  "avg_rtt_ms": 0.22,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:37:59,791 [INFO] [d57136cb] Disconnected. Active clients: 2
+2026-04-06 09:37:59,794 [INFO] [00c4f9ff] Connected from ('127.0.0.1', 62560)
+2026-04-06 09:37:59,794 [INFO] [00c4f9ff] Connected. Active clients: 3
+2026-04-06 09:37:59,801 [INFO] [00c4f9ff] Session started from ('127.0.0.1', 62560)
+2026-04-06 09:37:59,802 [INFO] [00c4f9ff] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:59,803 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:59,844 [INFO] [0c1d03fa] Connected from ('127.0.0.1', 62561)
+2026-04-06 09:37:59,844 [INFO] [0c1d03fa] Connected. Active clients: 4
+2026-04-06 09:37:59,848 [INFO] [0c1d03fa] Session started from ('127.0.0.1', 62561)
+2026-04-06 09:37:59,849 [INFO] [0c1d03fa] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:59,850 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:59,895 [INFO] [ff5f47c2] Connected from ('127.0.0.1', 62562)
+2026-04-06 09:37:59,895 [INFO] [ff5f47c2] Connected. Active clients: 5
+2026-04-06 09:37:59,898 [INFO] [ff5f47c2] Session started from ('127.0.0.1', 62562)
+2026-04-06 09:37:59,899 [INFO] [ff5f47c2] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:37:59,899 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:37:59,948 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:37:59,994 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:38:00,039 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:38:00,804 [INFO] [00c4f9ff] Bitrate 2 -> 3
+2026-04-06 09:38:00,850 [INFO] [0c1d03fa] Bitrate 2 -> 3
+2026-04-06 09:38:00,900 [INFO] [ff5f47c2] Bitrate 2 -> 3
+2026-04-06 09:38:34,874 [INFO] [2f2978db] Song done.
+2026-04-06 09:38:34,876 [INFO] [2f2978db] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:38:34,876 [INFO] [2f2978db] Session ended. QoS report:
+{
+  "client_id": "2f2978db",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.9,
+  "avg_rtt_ms": 0.31,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:38:34,877 [INFO] [2f2978db] Disconnected. Active clients: 4
+2026-04-06 09:38:34,977 [INFO] [556bb3ee] Song done.
+2026-04-06 09:38:34,979 [INFO] [556bb3ee] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:38:34,979 [INFO] [556bb3ee] Session ended. QoS report:
+{
+  "client_id": "556bb3ee",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.86,
+  "avg_rtt_ms": 0.28,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:38:34,980 [INFO] [556bb3ee] Disconnected. Active clients: 3
+2026-04-06 09:38:36,984 [INFO] [179d2ec8] Connected from ('127.0.0.1', 60222)
+2026-04-06 09:38:36,984 [INFO] [179d2ec8] Connected. Active clients: 4
+2026-04-06 09:38:36,987 [INFO] [179d2ec8] Session started from ('127.0.0.1', 60222)
+2026-04-06 09:38:36,989 [INFO] [179d2ec8] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:38:36,990 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:38:37,085 [INFO] [394a950a] Connected from ('127.0.0.1', 60223)
+2026-04-06 09:38:37,085 [INFO] [394a950a] Connected. Active clients: 5
+2026-04-06 09:38:37,089 [INFO] [394a950a] Session started from ('127.0.0.1', 60223)
+2026-04-06 09:38:37,090 [INFO] [394a950a] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:38:37,090 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:38:37,114 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:38:37,185 [INFO] [4b39f881] Connected from ('127.0.0.1', 60224)
+2026-04-06 09:38:37,185 [INFO] [4b39f881] Connected. Active clients: 6
+2026-04-06 09:38:37,190 [INFO] [4b39f881] Session started from ('127.0.0.1', 60224)
+2026-04-06 09:38:37,190 [INFO] [4b39f881] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:38:37,191 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:38:37,209 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:38:37,309 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:38:37,990 [INFO] [179d2ec8] Bitrate 2 -> 3
+2026-04-06 09:38:38,091 [INFO] [394a950a] Bitrate 2 -> 3
+2026-04-06 09:38:38,192 [INFO] [4b39f881] Bitrate 2 -> 3
+2026-04-06 09:38:58,210 [INFO] [00c4f9ff] Song done.
+2026-04-06 09:38:58,211 [INFO] [00c4f9ff] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:38:58,211 [INFO] [00c4f9ff] Session ended. QoS report:
+{
+  "client_id": "00c4f9ff",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.92,
+  "avg_rtt_ms": 0.19,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:38:58,211 [INFO] [00c4f9ff] Disconnected. Active clients: 5
+2026-04-06 09:38:58,256 [INFO] [0c1d03fa] Song done.
+2026-04-06 09:38:58,258 [INFO] [0c1d03fa] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:38:58,258 [INFO] [0c1d03fa] Session ended. QoS report:
+{
+  "client_id": "0c1d03fa",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.91,
+  "avg_rtt_ms": 0.18,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:38:58,259 [INFO] [0c1d03fa] Disconnected. Active clients: 4
+2026-04-06 09:38:58,305 [INFO] [ff5f47c2] Song done.
+2026-04-06 09:38:58,306 [INFO] [ff5f47c2] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-06 09:38:58,307 [INFO] [ff5f47c2] Session ended. QoS report:
+{
+  "client_id": "ff5f47c2",
+  "elapsed_s": 58.41,
+  "packets_sent": 584,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.94,
+  "avg_rtt_ms": 0.18,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:38:58,307 [INFO] [ff5f47c2] Disconnected. Active clients: 3
+2026-04-06 09:38:58,308 [INFO] [b67fdb09] Connected from ('127.0.0.1', 60227)
+2026-04-06 09:38:58,308 [INFO] [b67fdb09] Connected. Active clients: 4
+2026-04-06 09:38:58,311 [INFO] [b67fdb09] Session started from ('127.0.0.1', 60227)
+2026-04-06 09:38:58,312 [INFO] [b67fdb09] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-06 09:38:58,312 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-06 09:38:58,431 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-06 09:38:59,313 [INFO] [b67fdb09] Bitrate 2 -> 3
+2026-04-06 09:39:01,313 [INFO] [b67fdb09] Bitrate 3 -> 2
+2026-04-06 09:39:04,313 [INFO] [b67fdb09] Bitrate 2 -> 1
+2026-04-06 09:39:27,895 [ERROR] [179d2ec8] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:39:27,896 [INFO] [179d2ec8] Session ended. QoS report:
+{
+  "client_id": "179d2ec8",
+  "elapsed_s": 50.91,
+  "packets_sent": 509,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.97,
+  "avg_rtt_ms": 0.26,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:39:27,896 [ERROR] [394a950a] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:39:27,896 [INFO] [179d2ec8] Disconnected. Active clients: 3
+2026-04-06 09:39:27,896 [ERROR] [4b39f881] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:39:27,897 [INFO] [394a950a] Session ended. QoS report:
+{
+  "client_id": "394a950a",
+  "elapsed_s": 50.81,
+  "packets_sent": 508,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1410.99,
+  "avg_rtt_ms": 0.29,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:39:27,897 [INFO] [4b39f881] Session ended. QoS report:
+{
+  "client_id": "4b39f881",
+  "elapsed_s": 50.71,
+  "packets_sent": 507,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 1411.0,
+  "avg_rtt_ms": 0.2,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-06 09:39:27,897 [INFO] [394a950a] Disconnected. Active clients: 2
+2026-04-06 09:39:27,898 [INFO] [4b39f881] Disconnected. Active clients: 1
+2026-04-06 09:39:35,618 [ERROR] [b67fdb09] Connection error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-04-06 09:39:35,619 [INFO] [b67fdb09] Session ended. QoS report:
+{
+  "client_id": "b67fdb09",
+  "elapsed_s": 37.31,
+  "packets_sent": 394,
+  "packets_lost": 20,
+  "loss_rate_%": 5.08,
+  "retries": 20,
+  "throughput_kbps": 1490.36,
+  "avg_rtt_ms": 0.28,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 3
+    },
+    {
+      "time_s": 3.0,
+      "from": 3,
+      "to": 2
+    },
+    {
+      "time_s": 6.0,
+      "from": 2,
+      "to": 1
+    }
+  ]
+}
+2026-04-06 09:39:35,619 [INFO] [b67fdb09] Disconnected. Active clients: 0
+2026-04-09 12:00:18,969 [INFO] SSL certificates found.
+2026-04-09 12:00:18,970 [INFO] Song library (4 songs):
+2026-04-09 12:00:18,970 [INFO]    [ 1] Charlie kirk was shot by me song (clash royale OST).mp3.mp3  (1370 KB)
+2026-04-09 12:00:18,970 [INFO]    [ 2] prettyjohn1-podcast-intro-503918.mp3  (1209 KB)
+2026-04-09 12:00:18,970 [INFO]    [ 3] song1.mp3  (3116 KB)
+2026-04-09 12:00:18,970 [INFO]    [ 4] song2.mp3  (1875 KB)
+2026-04-09 12:00:18,971 [INFO] Listening on 0.0.0.0:9000 (TLS enabled)
+2026-04-09 12:00:28,313 [INFO] [678f0bea] Connected from ('127.0.0.1', 55053)
+2026-04-09 12:00:28,313 [INFO] [678f0bea] Connected. Active clients: 1
+2026-04-09 12:00:28,354 [INFO] [678f0bea] Session started from ('127.0.0.1', 55053)
+2026-04-09 12:00:35,037 [INFO] [678f0bea] Confirmed: 'prettyjohn1-podcast-intro-503918.mp3'
+2026-04-09 12:00:35,119 [INFO] Decoding 'prettyjohn1-podcast-intro-503918.mp3' ...
+2026-04-09 12:00:37,249 [INFO] Decoded: 6669 KB PCM, 38.7s duration
+2026-04-09 12:00:37,253 [WARNING] [678f0bea] Pacing behind by 2.09s, resetting clock
+2026-04-09 12:00:38,154 [INFO] [678f0bea] Bitrate 2 -> 3
+2026-04-09 12:01:15,954 [INFO] [678f0bea] Song done.
+2026-04-09 12:01:35,999 [INFO] [71c49c59] Connected from ('127.0.0.1', 59135)
+2026-04-09 12:01:35,999 [INFO] [71c49c59] Connected. Active clients: 2
+2026-04-09 12:01:36,003 [INFO] [71c49c59] Session started from ('127.0.0.1', 59135)
+2026-04-09 12:01:36,004 [INFO] [71c49c59] Confirmed: 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3'
+2026-04-09 12:01:36,004 [INFO] Decoding 'Charlie kirk was shot by me song (clash royale OST).mp3.mp3' ...
+2026-04-09 12:01:36,141 [INFO] Decoded: 10060 KB PCM, 58.4s duration
+2026-04-09 12:01:37,004 [INFO] [71c49c59] Bitrate 2 -> 1
+2026-04-09 12:02:15,956 [INFO] [678f0bea] No request: The read operation timed out
+2026-04-09 12:02:15,957 [INFO] [678f0bea] Session ended. QoS report:
+{
+  "client_id": "678f0bea",
+  "elapsed_s": 107.6,
+  "packets_sent": 388,
+  "packets_lost": 0,
+  "loss_rate_%": 0.0,
+  "retries": 0,
+  "throughput_kbps": 507.72,
+  "avg_rtt_ms": 0.18,
+  "bitrate_changes": [
+    {
+      "time_s": 9.8,
+      "from": 2,
+      "to": 3
+    }
+  ]
+}
+2026-04-09 12:02:15,976 [INFO] [678f0bea] Disconnected. Active clients: 1
+2026-04-09 12:02:34,405 [INFO] [71c49c59] Song done.
+2026-04-09 12:02:34,409 [INFO] [71c49c59] No request: [WinError 10053] An established connection was aborted by the software in your host machine
+2026-04-09 12:02:34,412 [INFO] [71c49c59] Session ended. QoS report:
+{
+  "client_id": "71c49c59",
+  "elapsed_s": 58.41,
+  "packets_sent": 612,
+  "packets_lost": 28,
+  "loss_rate_%": 4.58,
+  "retries": 28,
+  "throughput_kbps": 1478.58,
+  "avg_rtt_ms": 0.16,
+  "bitrate_changes": [
+    {
+      "time_s": 1.0,
+      "from": 2,
+      "to": 1
+    }
+  ]
+}
+2026-04-09 12:02:34,413 [INFO] [71c49c59] Disconnected. Active clients: 0
+2026-04-09 12:03:45,054 [INFO] Shutting down ...
