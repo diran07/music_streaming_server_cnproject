@@ -3,7 +3,7 @@
 2026-03-12 18:58:29,463 [INFO] Active clients: 1
 2026-03-12 18:58:34,825 [INFO] [5c5b8f64] Buffer empty – stream finished
 2026-03-12 18:58:34,825 [INFO] [5c5b8f64] QoS Report: {
-  "client_id": "xxxxxxxxxx",
+  "client_id": "xxxxxxxxxxx",
   "elapsed_s": 5.35,
   "packets_sent": 43,
   "packets_lost": 0,
